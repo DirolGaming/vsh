@@ -12,11 +12,16 @@
 <body
 
 <h1>ISP 117</h1>
+
 <p>jaagop.janson@khkee</p>
 
 </body>
+
 </html>
+
 (fail lisatud ka GitHub praks2 reposse)
+
+
 5. public directory lisasin /var/www/html kausta juurde
 6. Nüüd on ka ligipääsetav see 172.23.13.51/public
 7. The end
